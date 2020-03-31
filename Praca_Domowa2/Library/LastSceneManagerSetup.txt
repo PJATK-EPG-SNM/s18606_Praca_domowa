@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Ala/Lekcja4/Assets/sdfgh.unity
+  isLoaded: 1
+  isActive: 1
